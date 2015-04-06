@@ -1,0 +1,22 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+	Скрипт, исключительно для хранения настроек программы
+"""
+config = {
+    'IP_KSC' : '10.89.37.2',
+}
+
+#pcs = ['APAVLOVICH', 'EARISTARHOVA', 'EAVDEEVA', 'IIBRAGIMOVA', 'ISOLOMATIN',
+#     'LSTAROVOITOVA', 'NSHAHRAENKO', 'Q11031967', 'SAFIULINA', 'TELENKOVA',		
+#    'VVERSHININA', 'YASHISHKOVA', 'YSHISHKOVA', 'YUIVANISHUK', 'YURAHIMOVA',]
+
+# 
+
+#pcs = [ '_SLEBEDEVA', 'APP-114', 'BEREZINA', 'CHERGISHANOVA', 'KRASNOKUTSKAYA',  'LKOCHANOVA',
+# 'MDJABAEVA', 'NJUCHENKO', 'SAVINEC-NEW', 'SEKRETAR',  'SSHAGADATOVA', 'YUCHERGISHANOVA',  
+# 'YUKOLEVATOVA',  'YUSEMIRECHENKO', ]
+
+pcs = ['LKOCHANOVA', 'YUCHERGISHANOVA',]
+
